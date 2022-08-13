@@ -1,0 +1,24 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v171)
+"   /home/ec2-user/app1/src
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+main/
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+"src" is a directory           
